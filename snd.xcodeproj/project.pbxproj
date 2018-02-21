@@ -14,6 +14,7 @@
 		11D5A4A7203876EE003EA043 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 11D5A4A5203876EE003EA043 /* LaunchScreen.storyboard */; };
 		11D5A4B2203876EF003EA043 /* sndTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11D5A4B1203876EF003EA043 /* sndTests.swift */; };
 		11D5A4BD203876EF003EA043 /* sndUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11D5A4BC203876EF003EA043 /* sndUITests.swift */; };
+		11D5A4CB2038770F003EA043 /* wwww.png in Resources */ = {isa = PBXBuildFile; fileRef = 11D5A4CA2038770F003EA043 /* wwww.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		11D5A4B8203876EF003EA043 /* sndUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = sndUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		11D5A4BC203876EF003EA043 /* sndUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sndUITests.swift; sourceTree = "<group>"; };
 		11D5A4BE203876EF003EA043 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		11D5A4CA2038770F003EA043 /* wwww.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = wwww.png; path = "../../Дуров/wwww.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				11D5A49E203876EE003EA043 /* ViewController.swift */,
 				11D5A4A0203876EE003EA043 /* Main.storyboard */,
 				11D5A4A3203876EE003EA043 /* Assets.xcassets */,
+				11D5A4CA2038770F003EA043 /* wwww.png */,
 				11D5A4A5203876EE003EA043 /* LaunchScreen.storyboard */,
 				11D5A4A8203876EE003EA043 /* Info.plist */,
 			);
@@ -235,6 +238,7 @@
 				11D5A4A7203876EE003EA043 /* LaunchScreen.storyboard in Resources */,
 				11D5A4A4203876EE003EA043 /* Assets.xcassets in Resources */,
 				11D5A4A2203876EE003EA043 /* Main.storyboard in Resources */,
+				11D5A4CB2038770F003EA043 /* wwww.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -430,7 +434,7 @@
 				DEVELOPMENT_TEAM = Z6TZXH8MS8;
 				INFOPLIST_FILE = snd/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = snd.snd;
+				PRODUCT_BUNDLE_IDENTIFIER = sinapsis13.Sandac;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -445,7 +449,7 @@
 				DEVELOPMENT_TEAM = Z6TZXH8MS8;
 				INFOPLIST_FILE = snd/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = snd.snd;
+				PRODUCT_BUNDLE_IDENTIFIER = sinapsis13.Sandac;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
